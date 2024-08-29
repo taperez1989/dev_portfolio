@@ -1,0 +1,18 @@
+/* App.css */
+html,
+body {
+  height: 100%;
+  /* Ensure full height */
+  margin: 0;
+  /* Remove default margin */
+  padding: 0;
+  /* Remove default padding */
+}
+
+.background {
+  background-color: #81B29A;
+  min-height: 100vh;
+  /* Ensure background covers at least the viewport height */
+  width: 100%;
+  /* Ensure background covers full width */
+}
