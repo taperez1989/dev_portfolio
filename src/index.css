@@ -111,6 +111,10 @@
   height: 100px;
 }
 
+#task:hover #links {
+  opacity: 1;
+}
+
 #blog {
   background-image: url('/images/blogAPI.png');
   display: flex;
@@ -120,6 +124,10 @@
   height: 100px;
 }
 
+#blog:hover #links {
+  opacity: 1;
+}
+
 #employee {
   background-image: url('/images/employTrack.png');
   display: flex;
@@ -127,6 +135,10 @@
   padding: 2rem;
   width: 200px;
   height: 100px;
+}
+
+#employee:hover #links {
+  opacity: 1;
 }
 
 #express {
